@@ -14,8 +14,3 @@ A high-performance, lock-free stock trading engine for matching buy and sell ord
 
 ---
 
-## 🛠️ Installation
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/yourusername/real-time-stock-engine.git
-   cd real-time-stock-engine
